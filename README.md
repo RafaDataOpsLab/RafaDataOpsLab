@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Rafael Cruz!
 
 🎓 MBA em Engenharia de Dados (Mackenzie) | 💡 Analista de Dados na Luminae Energia  
-📍 Foco em automação, Python, dados aplicados a negócios e projetos que resolvem problemas reais.
+📍 Foco em automação, Python, dados aplicados a negócios - desenvolvendo soluções que geram valor.
 
 ---
 
