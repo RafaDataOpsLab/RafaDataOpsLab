@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rafael Cruz!
 
-<!--
-**RafaDataOpsLab/RafaDataOpsLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA em Engenharia de Dados (Mackenzie) | 💡 Analista de Dados na Luminae Energia  
+📍 Apaixonado por automação, Python, dados aplicados a negócios e projetos que resolvem problemas reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ Tech Stack
+
+- Python
+- SQL
+- Power BI
+- VBA
+- Git & GitHub 
+- Machine Learning (NLP, classificação, pré-processamento)
+
+
+---
+
+### 🚀 Projetos em Destaque
+
+- [**detecção-alopecia-ml**](https://github.com/RafaDataOpsLab/deteccao-alopecia-ml): NLP + ML para detectar risco de alopecia com base em texto
+- [**Atualizador-de-Checklist**](https://github.com/RafaDataOpsLab/Atualizador-de-Checklist): Geração automatizada de PDFs para projetos de campo
+- [**PDF Finder**](https://github.com/RafaDataOpsLab/PDF_Finder): Ferramenta para encontrar e extrair conteúdos em arquivos PDF
+
+---
+
+### 📫 Contato
+
+- [📎 LinkedIn](https://www.linkedin.com/in/rafael-cruz-39542a145)
+- 📧 cruz_rafael@hotmail.com
+
+---
+
+⭐ Sempre aprendendo. Sempre compartilhando.
